@@ -6,5 +6,5 @@ Practicas de Front-End basadas en el Canal de Youtube  OnlineTutorial
 
 ![image](./captures/TravelWebside.PNG)
 
-### [Source](./ImagaGallery)  || Image Gallery
+### [Source](./ImageGallery)  || Image Gallery
 ![image](./captures/ImagaGallery.PNG)
