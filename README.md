@@ -1,5 +1,10 @@
-# OnlineTutorial
-Practicas de Front-End basadas en el Canal de Youtube  OnlineTutorial
+# Online Tutorial
+| Javascript/Typescript | Python | Golang | Rust | 
+|---                    |---     | ---    | ---  | 
+|                       |        |        |      |
+|                       |        |        |	     |
+
+---
 
 ### [Source](./TravelWebsite) || Travel Website || [Tutorial](https://www.youtube.com/watch?v=zcOoapSi-uM)
 ![image](./captures/TravelWebside.PNG)
