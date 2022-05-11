@@ -1,9 +1,4 @@
 # Online Tutorial
-| Javascript/Typescript | Python | Golang | Rust | 
-|---                    |---     | ---    | ---  | 
-|                       |        |        |      |
-|                       |        |        |	     |
-
 ---
 
 ### [Source](./TravelWebsite) || Travel Website || [Tutorial](https://www.youtube.com/watch?v=zcOoapSi-uM)
