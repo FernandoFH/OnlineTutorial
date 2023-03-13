@@ -1,7 +1,7 @@
 version: "3.9"
 services:
   dev:
-    image: "rust:1.67"
+    image: "rust:1.68"
     volumes:
       - ./projects:/projects
     environment:
