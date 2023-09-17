@@ -21,9 +21,6 @@
 
 --- 
 
-
-
-
 * { outline: solid 1px tomato !important; }
 
 
