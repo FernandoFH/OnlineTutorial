@@ -2,6 +2,8 @@
 
 - Youtube [Playlist](https://www.youtube.com/watch?v=GMnWXlJnbNo)
 
+- Youtube Rodrigo [Playlist](https://www.youtube.com/@rodrigomendezdev/streams98)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
